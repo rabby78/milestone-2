@@ -1,0 +1,174 @@
+*{
+    margin: 0;
+
+font-family: 'Open Sans', sans-serif;
+}
+.body {
+    max-width: 1240px;
+    margin: 0 auto;
+}
+
+.Background{
+    background-color: #FFF4E7;}
+nav{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 40px;
+    margin-left: 100px;
+}
+.overallbackground {
+    background: #FFF8F3;
+}
+nav ul{
+    display: flex;
+}
+nav li {
+    list-style: none;
+    margin-left: 20px;
+    margin-right: 40px;
+}
+.title-part p{
+    padding-top: 20px;
+}
+
+.ar {
+    color: #ff900E;
+}
+.title-part{
+    text-align: center;
+    padding-top:  60px;
+}
+button{
+    width: 101px;
+    height: 40px;
+    color: white;
+    background-color: orange;
+    border: none;
+    border-radius: 5px;
+}
+.main-image{
+    margin:50px 80px;
+    display: flex;
+    justify-content: center;
+    
+}
+
+
+.imageesss {
+   display: grid;
+   grid-template-columns: repeat(2, 0fr);
+   gap: 5px;
+   margin:50px 130px;
+
+}
+.multiple-image {
+    display: grid;
+    grid-template-columns: 2fr 2fr;
+   margin-right: 100px;
+   
+}
+.title-part2 {
+    margin-right:80px 200px;
+   padding-top: 300px;
+
+}
+.title-part2 p{
+    padding-top: 20px;
+}
+
+.mid {
+    display: flex;
+    margin-left: 140px;
+    padding-top: 140px;
+}
+
+.part-3 {
+    line-height: 2;
+}
+.little {
+    padding-top: 20px;
+    margin-left: 20px;
+}
+.part3-title
+{
+    padding-top: 20px;
+}
+.box1 {
+    border: F4E7;
+}
+.little-button {
+    background-color: orange;
+    border-radius: 1px;
+    height: 70px;
+    width: fit-content;
+    
+   
+    
+}
+.littlebuttonco {
+    display: flex;
+}
+.big-button {
+    margin-left: 650px;
+    width: 150px;
+    height: 100px;
+    border-radius: 5px;
+}
+.Lower {
+    padding-top: 70px;
+    margin-left: 140px;
+}
+.icon-all {
+    display: flex;
+    gap: 10em;
+    height: 200px;
+    justify-content: center;
+    text-align: center;
+padding-top: 100px;
+}
+.Lower-Sponsors {
+padding-top: 100px;
+margin-left: 100px;
+align-items: center;
+text-align: center;
+}
+.detail {
+    padding-top: 30px;
+}
+.all-container {
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    gap: 4cm;
+    background-color: white;
+    
+    
+
+}
+.last-container {
+    border: 2px solid #ff900E;
+    background-color: white;
+    padding: 29px 25px;
+    border-radius: 9px;
+    width: 100px;
+    height: 86px;
+    
+}
+
+.sponsors-img {
+   justify-content: center;
+    padding-top: 50px;
+    display: flex;
+    gap: 5em;
+}
+.all-end {
+   margin-top: 80px;
+   background:  #fff8f3;
+   border-radius: 5px;
+   padding: 20px 40px;
+   text-align: center;
+   margin-bottom: 60px;
+   align-items: center;
+   margin-left: auto;
+   margin-right: auto;
+}
